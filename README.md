@@ -1,0 +1,2 @@
+# 1478f08d3d5bc8bf55d71982011dd0bc
+App id 905A9-EF239-60AC9-408A7-92A21, version name - Newz
